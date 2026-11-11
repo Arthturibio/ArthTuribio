@@ -18,8 +18,6 @@ Sou estudante de Programação e Desenvolvimento de Software, com interesse em t
 
 ### 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
-
 <img
     align="left"
     alt="HTML"
