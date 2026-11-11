@@ -31,7 +31,7 @@ Sou estudante de Programação e Desenvolvimento de Software, com interesse em t
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
 </a>
 
-    </td>
+</td>
     <td valign="top" width="50%">
 
 ## Tecnologias
@@ -44,7 +44,7 @@ Sou estudante de Programação e Desenvolvimento de Software, com interesse em t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" title="C#" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" title="MySQL" alt="MySQL"/>
 
-    </td>
+</td>
   </tr>
 </table>
 
